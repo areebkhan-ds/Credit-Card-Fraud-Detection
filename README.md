@@ -51,8 +51,11 @@ The model strikes a balance between **high precision** (few false alarms) and **
 ```bash
 git clone https://github.com/areebkhan-ds/credit-card-fraud-detection.git
 
----
+Install dependencies:
+
+pip install -r requirements.txt
+
+```
 
 ## Author
-
 Areeb Khan
