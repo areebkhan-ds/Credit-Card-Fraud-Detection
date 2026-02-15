@@ -50,3 +50,9 @@ The model strikes a balance between **high precision** (few false alarms) and **
 1. Clone this repository:
 ```bash
 git clone https://github.com/areebkhan-ds/credit-card-fraud-detection.git
+
+---
+
+## Author
+
+Areeb Khan
