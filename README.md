@@ -7,6 +7,19 @@ The model identifies potentially fraudulent transactions automatically, helping 
 
 ---
 
+## App Information
+
+Credit Card Fraud Detection is a real-time application designed to identify fraudulent credit card transactions using machine learning. The app can be integrated into banking or financial systems to automatically flag suspicious transactions, alert relevant teams, and prevent financial losses.
+
+Platform: Python-based application
+
+Tech Stack: Python, scikit-learn, pandas, NumPy, matplotlib, seaborn
+
+Type: Machine Learning / Data Science Application
+
+Target Users: Banks, financial institutions, and fintech companies
+---
+
 ## Dataset
 - Source: [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/code/youssefelbadry10/credit-card-fraud-detection/input)
 - Size: 284,807 transactions
@@ -54,7 +67,10 @@ git clone https://github.com/areebkhan-ds/credit-card-fraud-detection.git
 Install dependencies:
 
 pip install -r requirements.txt
-
+```
+1. Run Fraud Detection App:
+```bash
+streamlit run app.py
 ```
 
 ## Author
